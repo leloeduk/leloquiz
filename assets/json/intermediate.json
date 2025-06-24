@@ -1,0 +1,904 @@
+{
+    "level": "intermediate",
+    "description": "Croyants ayant une bonne compréhension des bases chrétiennes et cherchant à approfondir leur foi.",
+    "biblicalReference": "1 Corinthiens 3:2",
+    "needs": "Enseignements plus profonds sur la doctrine chrétienne, l'éthique et les responsabilités chrétiennes.",
+    "categories": [
+        {
+            "id": "romans",
+            "name": "Romains",
+            "emoji": "📜",
+            "level": "intermediate",
+            "questions": [
+                {
+                    "id": "rm1",
+                    "text": "Quelle est la 'justice de Dieu' révélée dans Romains 1:17 ?",
+                    "options": [
+                        "La justice légale",
+                        "La justice par les œuvres",
+                        "La justice imputée par la foi",
+                        "La justice humaine"
+                    ],
+                    "correctIndex": 2,
+                    "reference": "Romains 1:17"
+                },
+                {
+                    "id": "rm2",
+                    "text": "Que signifie 'être justifiés par son sang' en Romains 5:9 ?",
+                    "options": [
+                        "Être purifié rituellement",
+                        "Être déclaré juste grâce au sacrifice de Christ",
+                        "Suivre la loi mosaïque",
+                        "Faire des sacrifices personnels"
+                    ],
+                    "correctIndex": 1,
+                    "reference": "Romains 5:9"
+                },
+                {
+                    "id": "rm3",
+                    "text": "Quel est le rôle de la loi selon Romains 7:7 ?",
+                    "options": [
+                        "Donner la vie éternelle",
+                        "Faire connaître le péché",
+                        "Remplacer la grâce",
+                        "Créer la perfection"
+                    ],
+                    "correctIndex": 1,
+                    "reference": "Romains 7:7"
+                },
+                {
+                    "id": "rm4",
+                    "text": "Que signifie 'marcher selon l'Esprit' en Romains 8:4 ?",
+                    "options": [
+                        "Suivre des règles strictes",
+                        "Vivre sous la direction du Saint-Esprit",
+                        "Prier sans cesse",
+                        "Faire des miracles"
+                    ],
+                    "correctIndex": 1,
+                    "reference": "Romains 8:4"
+                },
+                {
+                    "id": "rm5",
+                    "text": "Quelle est la 'volonté de Dieu' selon Romains 12:2 ?",
+                    "options": [
+                        "Un ensemble de règles",
+                        "Ce qui est bon, agréable et parfait",
+                        "La loi mosaïque",
+                        "Les traditions religieuses"
+                    ],
+                    "correctIndex": 1,
+                    "reference": "Romains 12:2"
+                },
+                {
+                    "id": "rm6",
+                    "text": "Comment Romains 14 décrit-il les 'faibles dans la foi' ?",
+                    "options": [
+                        "Ceux qui suivent strictement la loi alimentaire",
+                        "Ceux qui n'ont pas de foi",
+                        "Ceux qui sont physiquement faibles",
+                        "Ceux qui rejettent Christ"
+                    ],
+                    "correctIndex": 0,
+                    "reference": "Romains 14:1-2"
+                },
+                {
+                    "id": "rm7",
+                    "text": "Que signifie 'vainqueurs par celui qui nous a aimés' en Romains 8:37 ?",
+                    "options": [
+                        "La victoire par nos propres forces",
+                        "La victoire par la loi",
+                        "La victoire en Christ",
+                        "La victoire sur les autres"
+                    ],
+                    "correctIndex": 2,
+                    "reference": "Romains 8:37"
+                },
+                {
+                    "id": "rm8",
+                    "text": "Quelle est la relation entre la loi et la foi selon Romains 3:31 ?",
+                    "options": [
+                        "La foi annule la loi",
+                        "La foi établit la loi",
+                        "La foi ignore la loi",
+                        "La loi remplace la foi"
+                    ],
+                    "correctIndex": 1,
+                    "reference": "Romains 3:31"
+                },
+                {
+                    "id": "rm9",
+                    "text": "Que signifie 'le salaire du péché c'est la mort' en Romains 6:23 ?",
+                    "options": [
+                        "La mort physique seulement",
+                        "La séparation éternelle d'avec Dieu",
+                        "Une malédiction temporaire",
+                        "Une allégorie spirituelle"
+                    ],
+                    "correctIndex": 1,
+                    "reference": "Romains 6:23"
+                },
+                {
+                    "id": "rm10",
+                    "text": "Comment Romains 9-11 traite-t-il du plan de Dieu pour Israël ?",
+                    "options": [
+                        "Israël est rejeté définitivement",
+                        "Dieu a un plan souverain incluant Juifs et Gentils",
+                        "Seuls les Gentils sont élus",
+                        "La loi mosaïque reste obligatoire"
+                    ],
+                    "correctIndex": 1,
+                    "reference": "Romains 11:25-26"
+                }
+            ]
+        },
+        {
+            "id": "1corinthians",
+            "name": "1 Corinthiens",
+            "emoji": "📝",
+            "level": "intermediate",
+            "questions": [
+                {
+                    "id": "1co1",
+                    "text": "Quel est le problème des divisions dans l'église de Corinthe (1 Co 1:10-13) ?",
+                    "options": [
+                        "Des conflits doctrinaux majeurs",
+                        "Des allégeances à différents leaders humains",
+                        "Des différences ethniques",
+                        "Des disputes financières"
+                    ],
+                    "correctIndex": 1,
+                    "reference": "1 Corinthiens 1:10-13"
+                },
+                {
+                    "id": "1co2",
+                    "text": "Que signifie 'la folie de la prédication' en 1 Corinthiens 1:21 ?",
+                    "options": [
+                        "Un message inintelligible",
+                        "Le paradoxe du salut par la croix",
+                        "L'éloquence humaine",
+                        "Les philosophies grecques"
+                    ],
+                    "correctIndex": 1,
+                    "reference": "1 Corinthiens 1:21"
+                },
+                {
+                    "id": "1co3",
+                    "text": "Comment Paul décrit-il les chrétiens immatures en 1 Corinthiens 3:1-3 ?",
+                    "options": [
+                        "Comme des enfants spirituels",
+                        "Comme des ennemis de la croix",
+                        "Comme des sages selon le monde",
+                        "Comme des parfaits en Christ"
+                    ],
+                    "correctIndex": 0,
+                    "reference": "1 Corinthiens 3:1-3"
+                },
+                {
+                    "id": "1co4",
+                    "text": "Quelle est la gravité du cas d'inceste en 1 Corinthiens 5 ?",
+                    "options": [
+                        "Un péché comme les autres",
+                        "Un péché qui corrompt toute l'église",
+                        "Une affaire privée",
+                        "Une pratique culturelle acceptable"
+                    ],
+                    "correctIndex": 1,
+                    "reference": "1 Corinthiens 5:6"
+                },
+                {
+                    "id": "1co5",
+                    "text": "Que signifie 'votre corps est le temple du Saint-Esprit' en 1 Corinthiens 6:19 ?",
+                    "options": [
+                        "Une métaphore pour l'église",
+                        "Une raison de mépriser le corps",
+                        "Une responsabilité de sainteté corporelle",
+                        "Une allusion au temple de Jérusalem"
+                    ],
+                    "correctIndex": 2,
+                    "reference": "1 Corinthiens 6:19"
+                },
+                {
+                    "id": "1co6",
+                    "text": "Quel principe Paul établit-il concernant les choses permises en 1 Corinthiens 10:23 ?",
+                    "options": [
+                        "Tout est permis sans restriction",
+                        "Rien n'est vraiment permis",
+                        "Tout est permis mais tout n'édifie pas",
+                        "Seule la loi détermine ce qui est permis"
+                    ],
+                    "correctIndex": 2,
+                    "reference": "1 Corinthiens 10:23"
+                },
+                {
+                    "id": "1co7",
+                    "text": "Que signifie 'faire tout pour la gloire de Dieu' en 1 Corinthiens 10:31 ?",
+                    "options": [
+                        "Un idéal inaccessible",
+                        "Le motif central de la vie chrétienne",
+                        "Une règle pour le culte seulement",
+                        "Une obligation légale"
+                    ],
+                    "correctIndex": 1,
+                    "reference": "1 Corinthiens 10:31"
+                },
+                {
+                    "id": "1co8",
+                    "text": "Comment Paul règle-t-il la question du voile des femmes en 1 Corinthiens 11 ?",
+                    "options": [
+                        "Par une règle absolue",
+                        "Par des principes culturels et théologiques",
+                        "En l'ignorant complètement",
+                        "En l'imposant à toutes les cultures"
+                    ],
+                    "correctIndex": 1,
+                    "reference": "1 Corinthiens 11:2-16"
+                },
+                {
+                    "id": "1co9",
+                    "text": "Quelle est la signification profonde de la Cène en 1 Corinthiens 11:23-26 ?",
+                    "options": [
+                        "Un simple souvenir",
+                        "Une commémoration prophétique de la mort de Christ",
+                        "Un sacrifice renouvelé",
+                        "Un rite magique"
+                    ],
+                    "correctIndex": 1,
+                    "reference": "1 Corinthiens 11:23-26"
+                },
+                {
+                    "id": "1co10",
+                    "text": "Que signifie 'recherchez l'amour' en 1 Corinthiens 14:1 ?",
+                    "options": [
+                        "Un sentiment émotionnel",
+                        "La priorité sur tous les dons spirituels",
+                        "Une option parmi d'autres",
+                        "Une faiblesse spirituelle"
+                    ],
+                    "correctIndex": 1,
+                    "reference": "1 Corinthiens 14:1"
+                }
+            ]
+        },
+        {
+            "id": "ephesians",
+            "name": "Éphésiens",
+            "emoji": "📖",
+            "level": "intermediate",
+            "questions": [
+                {
+                    "id": "eph1",
+                    "text": "Que signifie 'bénis de toute bénédiction spirituelle' en Éphésiens 1:3 ?",
+                    "options": [
+                        "La prospérité matérielle",
+                        "Les dons reçus en Christ",
+                        "Le bonheur terrestre",
+                        "La supériorité sur les autres"
+                    ],
+                    "correctIndex": 1,
+                    "reference": "Éphésiens 1:3"
+                },
+                {
+                    "id": "eph2",
+                    "text": "Quelle est la 'mesure de la stature parfaite de Christ' en Éphésiens 4:13 ?",
+                    "options": [
+                        "La perfection morale",
+                        "La maturité spirituelle collective",
+                        "La connaissance intellectuelle",
+                        "L'accomplissement des œuvres"
+                    ],
+                    "correctIndex": 1,
+                    "reference": "Éphésiens 4:13"
+                },
+                {
+                    "id": "eph3",
+                    "text": "Que signifie 'revêtez-vous de l'homme nouveau' en Éphésiens 4:24 ?",
+                    "options": [
+                        "Changer de vêtements physiques",
+                        "Une transformation spirituelle radicale",
+                        "Devenir une nouvelle personne littéralement",
+                        "Une métaphore pour le baptême"
+                    ],
+                    "correctIndex": 1,
+                    "reference": "Éphésiens 4:24"
+                },
+                {
+                    "id": "eph4",
+                    "text": "Comment Éphésiens 5:18 contraste-t-il l'ivresse et le remplissage de l'Esprit ?",
+                    "options": [
+                        "Comme deux états incompatibles",
+                        "Comme deux moyens de transcendance",
+                        "Comme des expériences similaires",
+                        "Comme des étapes successives"
+                    ],
+                    "correctIndex": 0,
+                    "reference": "Éphésiens 5:18"
+                },
+                {
+                    "id": "eph5",
+                    "text": "Quel est le mystère révélé en Éphésiens 3:6 ?",
+                    "options": [
+                        "L'union des Juifs et des Gentils en Christ",
+                        "La fin des temps",
+                        "La nature de la Trinité",
+                        "Le plan du salut individuel"
+                    ],
+                    "correctIndex": 0,
+                    "reference": "Éphésiens 3:6"
+                },
+                {
+                    "id": "eph6",
+                    "text": "Que signifie 'Christ a fait des deux un seul homme' en Éphésiens 2:15 ?",
+                    "options": [
+                        "L'union de l'âme et du corps",
+                        "La réconciliation des Juifs et des Gentils",
+                        "L'harmonie entre l'homme et la nature",
+                        "La fin des conflits familiaux"
+                    ],
+                    "correctIndex": 1,
+                    "reference": "Éphésiens 2:15"
+                },
+                {
+                    "id": "eph7",
+                    "text": "Comment Éphésiens 6:12 décrit-il la lutte spirituelle ?",
+                    "options": [
+                        "Contre des ennemis humains",
+                        "Contre des forces spirituelles de méchanceté",
+                        "Contre la nature pécheresse",
+                        "Contre les philosophies mondaines"
+                    ],
+                    "correctIndex": 1,
+                    "reference": "Éphésiens 6:12"
+                },
+                {
+                    "id": "eph8",
+                    "text": "Que signifie 'le chef, Christ' en Éphésiens 4:15 ?",
+                    "options": [
+                        "Un titre honorifique",
+                        "La source de croissance de l'Église",
+                        "Un modèle à suivre",
+                        "Un dirigeant ecclésiastique"
+                    ],
+                    "correctIndex": 1,
+                    "reference": "Éphésiens 4:15"
+                },
+                {
+                    "id": "eph9",
+                    "text": "Quel est le rôle des dons spirituels selon Éphésiens 4:12 ?",
+                    "options": [
+                        "Pour la glorification personnelle",
+                        "Pour l'édification du corps de Christ",
+                        "Pour démontrer la puissance divine",
+                        "Pour remplacer les ministères"
+                    ],
+                    "correctIndex": 1,
+                    "reference": "Éphésiens 4:12"
+                },
+                {
+                    "id": "eph10",
+                    "text": "Comment Éphésiens 5:25-33 décrit-il le mariage ?",
+                    "options": [
+                        "Comme un contrat social",
+                        "Comme une illustration de Christ et l'Église",
+                        "Comme une institution temporaire",
+                        "Comme une relation de pouvoir"
+                    ],
+                    "correctIndex": 1,
+                    "reference": "Éphésiens 5:25-33"
+                }
+            ]
+        },
+        {
+            "id": "philippians",
+            "name": "Philippiens",
+            "emoji": "❤️",
+            "level": "intermediate",
+            "questions": [
+                {
+                    "id": "php1",
+                    "text": "Que signifie 'mettre en œuvre votre salut' en Philippiens 2:12 ?",
+                    "options": [
+                        "Œuvrer pour mériter le salut",
+                        "Manifester concrètement la réalité du salut",
+                        "Compléter l'œuvre de Christ",
+                        "Douter de son salut"
+                    ],
+                    "correctIndex": 1,
+                    "reference": "Philippiens 2:12"
+                },
+                {
+                    "id": "php2",
+                    "text": "Comment Paul décrit-il ses anciens avantages en Philippiens 3:7-8 ?",
+                    "options": [
+                        "Comme une perte à cause de Christ",
+                        "Comme un atout pour son ministère",
+                        "Comme une preuve de sa supériorité",
+                        "Comme un héritage précieux"
+                    ],
+                    "correctIndex": 0,
+                    "reference": "Philippiens 3:7-8"
+                },
+                {
+                    "id": "php3",
+                    "text": "Que signifie 'je cours vers le but' en Philippiens 3:14 ?",
+                    "options": [
+                        "Une compétition spirituelle",
+                        "La persévérance dans la vie chrétienne",
+                        "La recherche de la perfection légale",
+                        "L'impatience eschatologique"
+                    ],
+                    "correctIndex": 1,
+                    "reference": "Philippiens 3:14"
+                },
+                {
+                    "id": "php4",
+                    "text": "Comment Philippiens 4:6-7 traite-t-il de l'anxiété ?",
+                    "options": [
+                        "Par la négation des émotions",
+                        "Par la prière et l'action de grâce",
+                        "Par la résignation fataliste",
+                        "Par la recherche de solutions humaines"
+                    ],
+                    "correctIndex": 1,
+                    "reference": "Philippiens 4:6-7"
+                },
+                {
+                    "id": "php5",
+                    "text": "Que signifie 'être trouvé en lui' en Philippiens 3:9 ?",
+                    "options": [
+                        "Une localisation géographique",
+                        "L'union avec Christ par la foi",
+                        "La présence physique avec Jésus",
+                        "Une expérience mystique"
+                    ],
+                    "correctIndex": 1,
+                    "reference": "Philippiens 3:9"
+                },
+                {
+                    "id": "php6",
+                    "text": "Comment Paul décrit-il Epaphrodite en Philippiens 2:25-30 ?",
+                    "options": [
+                        "Comme un modèle de service sacrificiel",
+                        "Comme un faible dans la foi",
+                        "Comme un rival dans le ministère",
+                        "Comme un converti récent"
+                    ],
+                    "correctIndex": 0,
+                    "reference": "Philippiens 2:25-30"
+                },
+                {
+                    "id": "php7",
+                    "text": "Que signifie 'avoir les mêmes sentiments que Christ' en Philippiens 2:5 ?",
+                    "options": [
+                        "Une imitation superficielle",
+                        "Une attitude d'humilité et de service",
+                        "Une revendication d'égalité avec Dieu",
+                        "Une expérience émotionnelle identique"
+                    ],
+                    "correctIndex": 1,
+                    "reference": "Philippiens 2:5"
+                },
+                {
+                    "id": "php8",
+                    "text": "Comment Philippiens 1:21 résume-t-il la vie chrétienne ?",
+                    "options": [
+                        "Christ est un complément à la vie",
+                        "Christ est la vie même du croyant",
+                        "Christ est un idéal lointain",
+                        "Christ est un modèle moral"
+                    ],
+                    "correctIndex": 1,
+                    "reference": "Philippiens 1:21"
+                },
+                {
+                    "id": "php9",
+                    "text": "Que signifie 'je suis à même à tout' en Philippiens 4:12 ?",
+                    "options": [
+                        "Une autosuffisance orgueilleuse",
+                        "Une capacité à s'adapter par Christ",
+                        "Une indifférence stoïque",
+                        "Une revendication de perfection"
+                    ],
+                    "correctIndex": 1,
+                    "reference": "Philippiens 4:12"
+                },
+                {
+                    "id": "php10",
+                    "text": "Comment Philippiens 4:8 décrit-il la pensée chrétienne ?",
+                    "options": [
+                        "Comme une négation de la réalité",
+                        "Comme une discipline intellectuelle",
+                        "Comme une focalisation sur ce qui est vrai et noble",
+                        "Comme une rêverie mystique"
+                    ],
+                    "correctIndex": 2,
+                    "reference": "Philippiens 4:8"
+                }
+            ]
+        },
+        {
+            "id": "colossians",
+            "name": "Colossiens",
+            "emoji": "✝️",
+            "level": "intermediate",
+            "questions": [
+                {
+                    "id": "col1",
+                    "text": "Comment Colossiens 1:15 décrit-il Christ ?",
+                    "options": [
+                        "Comme un grand prophète",
+                        "Comme l'image du Dieu invisible",
+                        "Comme un ange suprême",
+                        "Comme un modèle moral"
+                    ],
+                    "correctIndex": 1,
+                    "reference": "Colossiens 1:15"
+                },
+                {
+                    "id": "col2",
+                    "text": "Que signifie 'la plénitude habite en lui' en Colossiens 1:19 ?",
+                    "options": [
+                        "La perfection morale",
+                        "La totalité de la nature divine",
+                        "L'abondance matérielle",
+                        "La connaissance universelle"
+                    ],
+                    "correctIndex": 1,
+                    "reference": "Colossiens 1:19"
+                },
+                {
+                    "id": "col3",
+                    "text": "Quel danger menace les Colossiens selon Colossiens 2:8 ?",
+                    "options": [
+                        "La persécution romaine",
+                        "Les philosophies trompeuses",
+                        "L'immoralité",
+                        "L'apostasie totale"
+                    ],
+                    "correctIndex": 1,
+                    "reference": "Colossiens 2:8"
+                },
+                {
+                    "id": "col4",
+                    "text": "Que signifie 'vous êtes complets en lui' en Colossiens 2:10 ?",
+                    "options": [
+                        "La perfection sans effort",
+                        "L'accomplissement en Christ seul",
+                        "L'inutilité des moyens de grâce",
+                        "La fin de la croissance spirituelle"
+                    ],
+                    "correctIndex": 1,
+                    "reference": "Colossiens 2:10"
+                },
+                {
+                    "id": "col5",
+                    "text": "Comment Colossiens 3:1-2 exhorte-t-il à penser ?",
+                    "options": [
+                        "Aux choses terrestres",
+                        "Aux choses d'en haut",
+                        "Aux traditions religieuses",
+                        "Aux réalités matérielles"
+                    ],
+                    "correctIndex": 1,
+                    "reference": "Colossiens 3:1-2"
+                },
+                {
+                    "id": "col6",
+                    "text": "Que signifie 'revêtez l'homme nouveau' en Colossiens 3:10 ?",
+                    "options": [
+                        "Un changement de vêtements",
+                        "Une transformation selon l'image de Christ",
+                        "Une nouvelle identité sociale",
+                        "Une expérience mystique"
+                    ],
+                    "correctIndex": 1,
+                    "reference": "Colossiens 3:10"
+                },
+                {
+                    "id": "col7",
+                    "text": "Comment Colossiens 4:2 exhorte-t-il à prier ?",
+                    "options": [
+                        "Avec formalisme",
+                        "Avec persévérance et vigilance",
+                        "Seulement en assemblée",
+                        "Selon des formules fixes"
+                    ],
+                    "correctIndex": 1,
+                    "reference": "Colossiens 4:2"
+                },
+                {
+                    "id": "col8",
+                    "text": "Que signifie 'Christ en vous, l'espérance de la gloire' en Colossiens 1:27 ?",
+                    "options": [
+                        "Une présence symbolique",
+                        "La garantie de la vie éternelle",
+                        "Un sentiment religieux",
+                        "Une expérience future"
+                    ],
+                    "correctIndex": 1,
+                    "reference": "Colossiens 1:27"
+                },
+                {
+                    "id": "col9",
+                    "text": "Comment Colossiens 2:6-7 exhorte-t-il à marcher en Christ ?",
+                    "options": [
+                        "Par l'innovation constante",
+                        "Enracinés et édifiés en lui",
+                        "Par l'isolement du monde",
+                        "Par la recherche de visions"
+                    ],
+                    "correctIndex": 1,
+                    "reference": "Colossiens 2:6-7"
+                },
+                {
+                    "id": "col10",
+                    "text": "Que signifie 'la parole de Christ habite en vous richement' en Colossiens 3:16 ?",
+                    "options": [
+                        "La mémorisation des Écritures",
+                        "Une influence transformatrice de la Parole",
+                        "La connaissance intellectuelle",
+                        "La pratique des discours religieux"
+                    ],
+                    "correctIndex": 1,
+                    "reference": "Colossiens 3:16"
+                }
+            ]
+        },
+        {
+            "id": "hebrews",
+            "name": "Hébreux",
+            "emoji": "🕊️",
+            "level": "intermediate",
+            "questions": [
+                {
+                    "id": "heb1",
+                    "text": "Comment Hébreux 1:1-2 présente-t-il la révélation de Dieu ?",
+                    "options": [
+                        "Exclusive à l'Ancien Testament",
+                        "Progressive jusqu'au Fils",
+                        "Identique dans toutes les religions",
+                        "Accessible seulement aux sages"
+                    ],
+                    "correctIndex": 1,
+                    "reference": "Hébreux 1:1-2"
+                },
+                {
+                    "id": "heb2",
+                    "text": "Que signifie Christ comme 'médiateur d'une meilleure alliance' en Hébreux 8:6 ?",
+                    "options": [
+                        "Un compromis entre Dieu et l'homme",
+                        "Un intermédiaire temporaire",
+                        "Le fondement d'une relation nouvelle avec Dieu",
+                        "Un simple prophète"
+                    ],
+                    "correctIndex": 2,
+                    "reference": "Hébreux 8:6"
+                },
+                {
+                    "id": "heb3",
+                    "text": "Quel est le thème central d'Hébreux 9-10 concernant le sacrifice de Christ ?",
+                    "options": [
+                        "Sa répétition nécessaire",
+                        "Son caractère unique et suffisant",
+                        "Son inefficacité relative",
+                        "Sa nature symbolique"
+                    ],
+                    "correctIndex": 1,
+                    "reference": "Hébreux 10:10-14"
+                },
+                {
+                    "id": "heb4",
+                    "text": "Que signifie 'nous n'avons pas un souverain sacrificateur incapable de compatir' en Hébreux 4:15 ?",
+                    "options": [
+                        "Christ partage pleinement notre humanité",
+                        "Christ est distant de nos luttes",
+                        "Christ minimise nos péchés",
+                        "Christ ignore nos faiblesses"
+                    ],
+                    "correctIndex": 0,
+                    "reference": "Hébreux 4:15"
+                },
+                {
+                    "id": "heb5",
+                    "text": "Comment Hébreux 11 définit-il la foi ?",
+                    "options": [
+                        "Une conviction des réalités invisibles",
+                        "Un sentiment religieux",
+                        "Une connaissance intellectuelle",
+                        "Une expérience émotionnelle"
+                    ],
+                    "correctIndex": 0,
+                    "reference": "Hébreux 11:1"
+                },
+                {
+                    "id": "heb6",
+                    "text": "Que signifie 'courez avec persévérance' en Hébreux 12:1 ?",
+                    "options": [
+                        "Une compétition pour être le meilleur",
+                        "L'endurance dans la vie chrétienne",
+                        "La recherche de la perfection légale",
+                        "L'attente passive du ciel"
+                    ],
+                    "correctIndex": 1,
+                    "reference": "Hébreux 12:1"
+                },
+                {
+                    "id": "heb7",
+                    "text": "Comment Hébreux 13:8 décrit-il Christ ?",
+                    "options": [
+                        "Un modèle historique",
+                        "Le même hier, aujourd'hui et éternellement",
+                        "Un concept théologique",
+                        "Une force impersonnelle"
+                    ],
+                    "correctIndex": 1,
+                    "reference": "Hébreux 13:8"
+                },
+                {
+                    "id": "heb8",
+                    "text": "Que signifie 'approchons-nous avec un cœur sincère' en Hébreux 10:22 ?",
+                    "options": [
+                        "Une formalité rituelle",
+                        "Une relation personnelle avec Dieu",
+                        "Une obligation légale",
+                        "Une expérience mystique"
+                    ],
+                    "correctIndex": 1,
+                    "reference": "Hébreux 10:22"
+                },
+                {
+                    "id": "heb9",
+                    "text": "Quel est l'avertissement d'Hébreux 6:4-6 ?",
+                    "options": [
+                        "L'impossibilité de renouveler à la repentance ceux qui apostasient",
+                        "La perte temporaire du salut",
+                        "L'inexistence du salut éternel",
+                        "La nécessité des œuvres pour garder le salut"
+                    ],
+                    "correctIndex": 0,
+                    "reference": "Hébreux 6:4-6"
+                },
+                {
+                    "id": "heb10",
+                    "text": "Que signifie Melchisédek comme type de Christ en Hébreux 7 ?",
+                    "options": [
+                        "Un simple roi historique",
+                        "Un sacrificateur temporaire",
+                        "Un sacrificateur selon un ordre éternel",
+                        "Un prophète ordinaire"
+                    ],
+                    "correctIndex": 2,
+                    "reference": "Hébreux 7:1-3"
+                }
+            ]
+        },
+        {
+            "id": "pastoral",
+            "name": "Épîtres Pastorales",
+            "emoji": "👨‍🏫",
+            "level": "intermediate",
+            "questions": [
+                {
+                    "id": "pas1",
+                    "text": "Quelles sont les qualifications des anciens en 1 Timothée 3:1-7 ?",
+                    "options": [
+                        "Compétences professionnelles",
+                        "Charisme personnel",
+                        "Caractère irréprochable et capacité à enseigner",
+                        "Richesse et influence sociale"
+                    ],
+                    "correctIndex": 2,
+                    "reference": "1 Timothée 3:1-7"
+                },
+                {
+                    "id": "pas2",
+                    "text": "Que signifie 'prêche la parole' en 2 Timothée 4:2 ?",
+                    "options": [
+                        "Discuter des opinions personnelles",
+                        "Annoncer fidèlement la Parole de Dieu",
+                        "Adapter le message aux tendances",
+                        "Éviter les sujets difficiles"
+                    ],
+                    "correctIndex": 1,
+                    "reference": "2 Timothée 4:2"
+                },
+                {
+                    "id": "pas3",
+                    "text": "Comment Tite 2:11-14 décrit-il la grâce de Dieu ?",
+                    "options": [
+                        "Comme une permission de pécher",
+                        "Comme éducatrice pour une vie sobre et pieuse",
+                        "Comme réservée à une élite",
+                        "Comme incompatible avec la morale"
+                    ],
+                    "correctIndex": 1,
+                    "reference": "Tite 2:11-14"
+                },
+                {
+                    "id": "pas4",
+                    "text": "Que signifie 'combat le bon combat de la foi' en 1 Timothée 6:12 ?",
+                    "options": [
+                        "Une lutte physique",
+                        "La défense active de la vérité",
+                        "Une compétition entre croyants",
+                        "Une guerre contre les institutions"
+                    ],
+                    "correctIndex": 1,
+                    "reference": "1 Timothée 6:12"
+                },
+                {
+                    "id": "pas5",
+                    "text": "Quel est le rôle des Écritures selon 2 Timothée 3:16-17 ?",
+                    "options": [
+                        "Un guide parmi d'autres",
+                        "Utile pour enseigner et former à toute bonne œuvre",
+                        "Un texte historique dépassé",
+                        "Un manuel de règles légales"
+                    ],
+                    "correctIndex": 1,
+                    "reference": "2 Timothée 3:16-17"
+                },
+                {
+                    "id": "pas6",
+                    "text": "Comment 1 Timothée 2:1-4 exhorte-t-il à prier pour les autorités ?",
+                    "options": [
+                        "Pour leur chute",
+                        "Pour qu'ils deviennent chrétiens",
+                        "Pour vivre en paix et piété",
+                        "Pour qu'ils favorisent l'Église"
+                    ],
+                    "correctIndex": 2,
+                    "reference": "1 Timothée 2:1-4"
+                },
+                {
+                    "id": "pas7",
+                    "text": "Que signifie 'garder le dépôt' en 1 Timothée 6:20 ?",
+                    "options": [
+                        "Protéger l'argent de l'église",
+                        "Conserver intact l'enseignement reçu",
+                        "Maintenir les traditions culturelles",
+                        "Préserver les bâtiments religieux"
+                    ],
+                    "correctIndex": 1,
+                    "reference": "1 Timothée 6:20"
+                },
+                {
+                    "id": "pas8",
+                    "text": "Comment Tite 1:5 décrit-il le rôle des anciens ?",
+                    "options": [
+                        "Des administrateurs financiers",
+                        "Des chefs politiques",
+                        "Des responsables pour établir l'ordre dans l'église",
+                        "Des intermédiaires sacerdotaux"
+                    ],
+                    "correctIndex": 2,
+                    "reference": "Tite 1:5"
+                },
+                {
+                    "id": "pas9",
+                    "text": "Que signifie 'être un exemple pour les croyants' en 1 Timothée 4:12 ?",
+                    "options": [
+                        "Une performance parfaite",
+                        "Un modèle dans la conduite et l'enseignement",
+                        "Une supériorité spirituelle",
+                        "Une conformité extérieure"
+                    ],
+                    "correctIndex": 1,
+                    "reference": "1 Timothée 4:12"
+                },
+                {
+                    "id": "pas10",
+                    "text": "Quel avertissement Paul donne-t-il en 2 Timothée 3:1-5 ?",
+                    "options": [
+                        "Les temps difficiles des derniers jours",
+                        "La fin imminente du monde",
+                        "L'inutilité de la résistance",
+                        "La nécessité de s'isoler"
+                    ],
+                    "correctIndex": 0,
+                    "reference": "2 Timothée 3:1-5"
+                }
+            ]
+        }
+    ]
+}

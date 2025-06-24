@@ -1,0 +1,776 @@
+{
+    "level": "advanced",
+    "description": "Croyants ayant une compréhension approfondie des doctrines chrétiennes et une expérience pratique de la foi.",
+    "biblicalReference": "Hébreux 5:14",
+    "needs": "Enseignements profonds sur les mystères de la foi, la théologie et la mission chrétienne dans le monde moderne.",
+    "categories": [
+        {
+            "id": "hebrews",
+            "name": "Hébreux",
+            "emoji": "📖",
+            "level": "advanced",
+            "questions": [
+                {
+                    "id": "heb1",
+                    "text": "Comment l'épître aux Hébreux démontre-t-elle la supériorité de Melchisédek sur Abraham ?",
+                    "options": [
+                        "Par sa lignée sacerdotale",
+                        "Par le fait qu'Abraham lui a payé la dîme",
+                        "Par son absence de généalogie biblique",
+                        "Par sa royauté temporelle"
+                    ],
+                    "correctIndex": 1,
+                    "reference": "Hébreux 7:4-10"
+                },
+                {
+                    "id": "heb2",
+                    "text": "Quelle est la signification théologique du voile déchiré dans Hébreux 10:20 ?",
+                    "options": [
+                        "La fin du temple juif",
+                        "L'accès direct à Dieu par Christ",
+                        "La colère divine contre Israël",
+                        "Un simple événement historique"
+                    ],
+                    "correctIndex": 1,
+                    "reference": "Hébreux 10:19-20"
+                },
+                {
+                    "id": "heb3",
+                    "text": "Comment Hébreux 6:4-6 interprète-t-il l'apostasie ?",
+                    "options": [
+                        "Comme un péché véniel",
+                        "Comme une impossibilité de renouvellement à la repentance",
+                        "Comme une simple mise à l'épreuve",
+                        "Comme une perte temporaire de grâce"
+                    ],
+                    "correctIndex": 1,
+                    "reference": "Hébreux 6:4-6"
+                },
+                {
+                    "id": "heb4",
+                    "text": "Quelle est la relation entre l'ancienne et la nouvelle alliance selon Hébreux 8:7-13 ?",
+                    "options": [
+                        "Continuité sans changement",
+                        "Opposition radicale",
+                        "Accomplissement et remplacement",
+                        "Parallélisme symbolique"
+                    ],
+                    "correctIndex": 2,
+                    "reference": "Hébreux 8:7-13"
+                },
+                {
+                    "id": "heb5",
+                    "text": "Comment Hébreux 9:22 résout-il la tension entre grâce et justice divine ?",
+                    "options": [
+                        "Par l'abolition de la loi",
+                        "Par le sang comme moyen de pardon",
+                        "Par la substitution des sacrifices animaux",
+                        "Par l'ignorance du péché"
+                    ],
+                    "correctIndex": 1,
+                    "reference": "Hébreux 9:22"
+                },
+                {
+                    "id": "heb6",
+                    "text": "Quelle est l'interprétation avancée du repos de Dieu en Hébreux 4 ?",
+                    "options": [
+                        "Un repos eschatologique seulement",
+                        "Un repos présent dans la foi",
+                        "Le sabbat juif littéral",
+                        "Une métaphore pour la mort"
+                    ],
+                    "correctIndex": 1,
+                    "reference": "Hébreux 4:3,9-11"
+                },
+                {
+                    "id": "heb7",
+                    "text": "Comment Hébreux 12:22-24 redéfinit-il la communauté des croyants ?",
+                    "options": [
+                        "Comme un nouveau système sacerdotal",
+                        "Comme participant à la Jérusalem céleste",
+                        "Comme remplaçant Israël",
+                        "Comme une organisation humaine"
+                    ],
+                    "correctIndex": 1,
+                    "reference": "Hébreux 12:22-24"
+                },
+                {
+                    "id": "heb8",
+                    "text": "Quelle est la signification christologique d'Hébreux 1:3 ?",
+                    "options": [
+                        "L'incarnation temporaire",
+                        "L'exacte représentation de la nature divine",
+                        "La préexistence angélique",
+                        "La subordination au Père"
+                    ],
+                    "correctIndex": 1,
+                    "reference": "Hébreux 1:3"
+                },
+                {
+                    "id": "heb9",
+                    "text": "Comment Hébreux 11:26 interprète-t-il les motivations de Moïse ?",
+                    "options": [
+                        "Par ambition personnelle",
+                        "Par la perspective de la récompense divine",
+                        "Par contrainte familiale",
+                        "Par hasard historique"
+                    ],
+                    "correctIndex": 1,
+                    "reference": "Hébreux 11:26"
+                },
+                {
+                    "id": "heb10",
+                    "text": "Quelle est la portée eschatologique d'Hébreux 9:28 ?",
+                    "options": [
+                        "Le jugement des nations seulement",
+                        "Le salut complet des croyants à la parousie",
+                        "La restauration du temple",
+                        "La fin des temps immédiate"
+                    ],
+                    "correctIndex": 1,
+                    "reference": "Hébreux 9:28"
+                }
+            ]
+        },
+        {
+            "id": "revelation",
+            "name": "Apocalypse",
+            "emoji": "🔮",
+            "level": "advanced",
+            "questions": [
+                {
+                    "id": "rev1",
+                    "text": "Quelle est l'interprétation théologique des sept églises en Apocalypse 2-3 ?",
+                    "options": [
+                        "Uniquement des communautés historiques",
+                        "Des archétypes d'églises à travers l'histoire",
+                        "Des symboles des sept dons spirituels",
+                        "Des anges gardiens"
+                    ],
+                    "correctIndex": 1,
+                    "reference": "Apocalypse 1:20"
+                },
+                {
+                    "id": "rev2",
+                    "text": "Comment comprendre la tension entre réalisme et symbolisme dans les sceaux ?",
+                    "options": [
+                        "Comme des événements purement futurs",
+                        "Comme des principes spirituels actuels",
+                        "Comme une combinaison des deux",
+                        "Comme des mythes juifs"
+                    ],
+                    "correctIndex": 2,
+                    "reference": "Apocalypse 6:1-17"
+                },
+                {
+                    "id": "rev3",
+                    "text": "Quelle est la signification théologique de la femme en Apocalypse 12 ?",
+                    "options": [
+                        "Marie mère de Jésus",
+                        "L'Église persécutée",
+                        "Israël dans l'histoire du salut",
+                        "Une combinaison des trois interprétations"
+                    ],
+                    "correctIndex": 3,
+                    "reference": "Apocalypse 12:1-17"
+                },
+                {
+                    "id": "rev4",
+                    "text": "Comment interpréter les deux bêtes d'Apocalypse 13 dans une perspective historique ?",
+                    "options": [
+                        "L'Empire romain et le culte impérial",
+                        "Les puissances politiques et religieuses anti-Christ",
+                        "Des entités purement futures",
+                        "Des symboles du mal abstrait"
+                    ],
+                    "correctIndex": 1,
+                    "reference": "Apocalypse 13:1-18"
+                },
+                {
+                    "id": "rev5",
+                    "text": "Quelle est la portée théologique des sept coupes ?",
+                    "options": [
+                        "Un jugement définitif eschatologique",
+                        "Des avertissements historiques répétés",
+                        "L'accomplissement des plaies d'Égypte",
+                        "Un jugement partiel progressif"
+                    ],
+                    "correctIndex": 0,
+                    "reference": "Apocalypse 16:1-21"
+                },
+                {
+                    "id": "rev6",
+                    "text": "Comment comprendre la 'première résurrection' en Apocalypse 20:5 ?",
+                    "options": [
+                        "La régénération spirituelle",
+                        "Le martyre des saints",
+                        "Une résurrection littérale pré-milléniale",
+                        "Les trois interprétations possibles"
+                    ],
+                    "correctIndex": 3,
+                    "reference": "Apocalypse 20:5-6"
+                },
+                {
+                    "id": "rev7",
+                    "text": "Quelle est la signification du millénium en Apocalypse 20 ?",
+                    "options": [
+                        "Un règne littéral de 1000 ans",
+                        "La période de l'Église",
+                        "Un symbole de plénitude eschatologique",
+                        "Les trois perspectives traditionnelles"
+                    ],
+                    "correctIndex": 3,
+                    "reference": "Apocalypse 20:1-6"
+                },
+                {
+                    "id": "rev8",
+                    "text": "Comment interpréter la nouvelle Jérusalem en Apocalypse 21 ?",
+                    "options": [
+                        "Une cité littérale future",
+                        "Un symbole de l'Église glorifiée",
+                        "L'accomplissement des promesses de l'AT",
+                        "Toutes ces réponses"
+                    ],
+                    "correctIndex": 3,
+                    "reference": "Apocalypse 21:1-27"
+                },
+                {
+                    "id": "rev9",
+                    "text": "Quelle est la signification christologique de l'Alpha et l'Oméga ?",
+                    "options": [
+                        "La préexistence éternelle de Christ",
+                        "Son contrôle sur l'histoire",
+                        "Son achèvement du salut",
+                        "Les trois réponses"
+                    ],
+                    "correctIndex": 3,
+                    "reference": "Apocalypse 22:13"
+                },
+                {
+                    "id": "rev10",
+                    "text": "Comment comprendre l'herméneutique des nombres dans l'Apocalypse ?",
+                    "options": [
+                        "Littéralement seulement",
+                        "Symboliquement seulement",
+                        "Selon le contexte de chaque passage",
+                        "Comme un code secret"
+                    ],
+                    "correctIndex": 2,
+                    "reference": "Apocalypse passim"
+                }
+            ]
+        },
+        {
+            "id": "pauline",
+            "name": "Théologie Paulinienne",
+            "emoji": "✝️",
+            "level": "advanced",
+            "questions": [
+                {
+                    "id": "paul1",
+                    "text": "Comment Paul résout-il la tension entre justification et jugement selon les œuvres ?",
+                    "options": [
+                        "Par la doctrine de la double justification",
+                        "Par le fruit nécessaire de la foi authentique",
+                        "En niant le jugement final",
+                        "Par la sanctification imputée"
+                    ],
+                    "correctIndex": 1,
+                    "reference": "Romains 2:6-16; Galates 5:6"
+                },
+                {
+                    "id": "paul2",
+                    "text": "Quelle est la relation entre loi et grâce dans la pensée paulinienne ?",
+                    "options": [
+                        "Opposition radicale",
+                        "La grâce accomplit la loi",
+                        "La loi prépare à la grâce",
+                        "Les trois perspectives"
+                    ],
+                    "correctIndex": 3,
+                    "reference": "Romains 3:31; 7:7-25; Galates 3:24"
+                },
+                {
+                    "id": "paul3",
+                    "text": "Comment Paul articule-t-il élection et responsabilité humaine ?",
+                    "options": [
+                        "En niant la liberté humaine",
+                        "Par le mystère de la souveraineté divine",
+                        "Comme un paradoxe irrésolu",
+                        "En faveur du libre arbitre seulement"
+                    ],
+                    "correctIndex": 1,
+                    "reference": "Romains 9-11"
+                },
+                {
+                    "id": "paul4",
+                    "text": "Quelle est la vision paulinienne de l'eschatologie réalisée ?",
+                    "options": [
+                        "Déjà/encore du royaume",
+                        "Eschatologie purement future",
+                        "Présentisme spirituel",
+                        "Attente imminente seulement"
+                    ],
+                    "correctIndex": 0,
+                    "reference": "1 Corinthiens 10:11; Éphésiens 1:3-14"
+                },
+                {
+                    "id": "paul5",
+                    "text": "Comment Paul conçoit-il l'union avec Christ ?",
+                    "options": [
+                        "Comme une métaphore juridique",
+                        "Comme une réalité ontologique",
+                        "Comme une expérience mystique",
+                        "Toutes ces dimensions"
+                    ],
+                    "correctIndex": 3,
+                    "reference": "Galates 2:20; Éphésiens 1:3-14"
+                },
+                {
+                    "id": "paul6",
+                    "text": "Quelle est l'anthropologie paulinienne du 'vieil homme/nouvel homme' ?",
+                    "options": [
+                        "Dualisme platonicien",
+                        "Transformation eschatologique",
+                        "Opposition chair/esprit",
+                        "Les trois perspectives"
+                    ],
+                    "correctIndex": 3,
+                    "reference": "Romains 6:6; Éphésiens 4:22-24"
+                },
+                {
+                    "id": "paul7",
+                    "text": "Comment Paul intègre-t-il Christologie et pneumatologie ?",
+                    "options": [
+                        "L'Esprit comme présence de Christ",
+                        "Une distinction radicale",
+                        "Le Spiritus Christi",
+                        "Réponses 1 et 3"
+                    ],
+                    "correctIndex": 3,
+                    "reference": "Romains 8:9-11"
+                },
+                {
+                    "id": "paul8",
+                    "text": "Quelle est l'ecclésiologie paulinienne du corps de Christ ?",
+                    "options": [
+                        "Une simple métaphore",
+                        "Une réalité organique",
+                        "Un idéal inaccessible",
+                        "Une institution hiérarchique"
+                    ],
+                    "correctIndex": 1,
+                    "reference": "1 Corinthiens 12:12-27"
+                },
+                {
+                    "id": "paul9",
+                    "text": "Comment Paul conçoit-il l'éthique chrétienne ?",
+                    "options": [
+                        "Comme application de la loi",
+                        "Comme marche selon l'Esprit",
+                        "Comme imitation de Christ",
+                        "Les trois dimensions"
+                    ],
+                    "correctIndex": 3,
+                    "reference": "Galates 5:16-25; 1 Corinthiens 11:1"
+                },
+                {
+                    "id": "paul10",
+                    "text": "Quelle est la vision missionnaire de Paul ?",
+                    "options": [
+                        "Universalité du salut",
+                        "Priorité juive dans l'histoire du salut",
+                        "Inculturation du message",
+                        "Les trois aspects"
+                    ],
+                    "correctIndex": 3,
+                    "reference": "Romains 1:16; 9-11; 1 Corinthiens 9:19-23"
+                }
+            ]
+        },
+        {
+            "id": "johannine",
+            "name": "Littérature Johannique",
+            "emoji": "✍️",
+            "level": "advanced",
+            "questions": [
+                {
+                    "id": "joh1",
+                    "text": "Comment Jean présente-t-il la divinité du Logos ?",
+                    "options": [
+                        "Comme une émanation divine",
+                        "Comme une incarnation unique",
+                        "Comme un principe cosmique",
+                        "Comme un ange suprême"
+                    ],
+                    "correctIndex": 1,
+                    "reference": "Jean 1:1-14"
+                },
+                {
+                    "id": "joh2",
+                    "text": "Quelle est la christologie des 'Je suis' dans Jean ?",
+                    "options": [
+                        "Affirmations de préexistence",
+                        "Allusions à l'AT (YHWH)",
+                        "Revendications divines",
+                        "Toutes ces réponses"
+                    ],
+                    "correctIndex": 3,
+                    "reference": "Jean 6:35; 8:58; 10:11 etc."
+                },
+                {
+                    "id": "joh3",
+                    "text": "Comment comprendre la dialectique lumière/ténèbres chez Jean ?",
+                    "options": [
+                        "Dualisme cosmique",
+                        "Opposition éthique",
+                        "Révélation eschatologique",
+                        "Les trois dimensions"
+                    ],
+                    "correctIndex": 3,
+                    "reference": "Jean 1:5; 3:19-21; 1 Jean 1:5-7"
+                },
+                {
+                    "id": "joh4",
+                    "text": "Quelle est l'eschatologie johannique ?",
+                    "options": [
+                        "Réalisée seulement",
+                        "Futuriste seulement",
+                        "Tension déjà/encore",
+                        "Absente de sa théologie"
+                    ],
+                    "correctIndex": 2,
+                    "reference": "Jean 5:24-29; 1 Jean 3:2"
+                },
+                {
+                    "id": "joh5",
+                    "text": "Comment Jean articule-t-il amour et vérité ?",
+                    "options": [
+                        "Primauté de l'amour",
+                        "Indissociabilité des deux",
+                        "Subordination de la vérité",
+                        "Opposition fréquente"
+                    ],
+                    "correctIndex": 1,
+                    "reference": "2 Jean 1-3; 1 Jean 3:18"
+                },
+                {
+                    "id": "joh6",
+                    "text": "Quelle est la pneumatologie johannique ?",
+                    "options": [
+                        "Esprit comme présence de Christ",
+                        "Paraclet enseignant",
+                        "Don eschatologique",
+                        "Toutes ces réponses"
+                    ],
+                    "correctIndex": 3,
+                    "reference": "Jean 14:16-17,26; 16:7-15"
+                },
+                {
+                    "id": "joh7",
+                    "text": "Comment interpréter l'antichrist chez Jean ?",
+                    "options": [
+                        "Figure eschatologique",
+                        "Principe actuel d'apostasie",
+                        "Les deux dimensions",
+                        "Simple hérésie du 1er siècle"
+                    ],
+                    "correctIndex": 2,
+                    "reference": "1 Jean 2:18,22; 4:3"
+                },
+                {
+                    "id": "joh8",
+                    "text": "Quelle est l'ecclésiologie implicite de Jean ?",
+                    "options": [
+                        "Communion trinitaire",
+                        "Unité dans la vérité",
+                        "Amour mutuel",
+                        "Toutes ces réponses"
+                    ],
+                    "correctIndex": 3,
+                    "reference": "Jean 17; 1 Jean 1:3,7"
+                },
+                {
+                    "id": "joh9",
+                    "text": "Comment Jean conçoit-il la connaissance de Dieu ?",
+                    "options": [
+                        "Expérience mystique",
+                        "Révélation christologique",
+                        "Communion pratique",
+                        "Les trois aspects"
+                    ],
+                    "correctIndex": 3,
+                    "reference": "Jean 17:3; 1 Jean 2:3-6"
+                },
+                {
+                    "id": "joh10",
+                    "text": "Quelle est l'éthique johannique ?",
+                    "options": [
+                        "Imitation de Christ",
+                        "Marche dans la lumière",
+                        "Amour concret",
+                        "Toutes ces réponses"
+                    ],
+                    "correctIndex": 3,
+                    "reference": "1 Jean 2:6; 1:7; 3:16-18"
+                }
+            ]
+        },
+        {
+            "id": "petrine",
+            "name": "Épîtres de Pierre",
+            "emoji": "✉️",
+            "level": "advanced",
+            "questions": [
+                {
+                    "id": "pet1",
+                    "text": "Comment Pierre articule-t-il élection et responsabilité ?",
+                    "options": [
+                        "Prédestination seule",
+                        "Appel et réponse humaine",
+                        "Tension dialectique",
+                        "Synergisme clair"
+                    ],
+                    "correctIndex": 2,
+                    "reference": "1 Pierre 1:1-2; 2:4-10"
+                },
+                {
+                    "id": "pet2",
+                    "text": "Quelle est la christologie sacerdotale de 1 Pierre 2 ?",
+                    "options": [
+                        "Sacrifice unique",
+                        "Sacerdoce des croyants",
+                        "Les deux aspects",
+                        "Ni l'un ni l'autre"
+                    ],
+                    "correctIndex": 2,
+                    "reference": "1 Pierre 2:5,9,24"
+                },
+                {
+                    "id": "pet3",
+                    "text": "Comment Pierre comprend-il la souffrance chrétienne ?",
+                    "options": [
+                        "Punition divine",
+                        "Participation aux souffrances de Christ",
+                        "Épreuve purificatrice",
+                        "Réponses 2 et 3"
+                    ],
+                    "correctIndex": 3,
+                    "reference": "1 Pierre 2:19-21; 4:12-19"
+                },
+                {
+                    "id": "pet4",
+                    "text": "Quelle est l'eschatologie de 2 Pierre 3 ?",
+                    "options": [
+                        "Attente imminente",
+                        "Délai salvifique",
+                        "Jugement certain",
+                        "Les trois aspects"
+                    ],
+                    "correctIndex": 3,
+                    "reference": "2 Pierre 3:3-13"
+                },
+                {
+                    "id": "pet5",
+                    "text": "Comment Pierre interprète-t-il le déluge typologiquement ?",
+                    "options": [
+                        "Préfiguration du baptême",
+                        "Symbole du jugement dernier",
+                        "Les deux interprétations",
+                        "Événement purement historique"
+                    ],
+                    "correctIndex": 2,
+                    "reference": "1 Pierre 3:20-21; 2 Pierre 2:5"
+                },
+                {
+                    "id": "pet6",
+                    "text": "Quelle est l'éthique sociale de 1 Pierre ?",
+                    "options": [
+                        "Soumission révolutionnaire",
+                        "Témoignage par la conduite",
+                        "Résistance passive",
+                        "Conformisme mondain"
+                    ],
+                    "correctIndex": 1,
+                    "reference": "1 Pierre 2:11-17"
+                },
+                {
+                    "id": "pet7",
+                    "text": "Comment Pierre conçoit-il la révélation prophétique ?",
+                    "options": [
+                        "Inspiration mécanique",
+                        "Recherche prophétique",
+                        "Accomplissement christologique",
+                        "Réponses 2 et 3"
+                    ],
+                    "correctIndex": 3,
+                    "reference": "1 Pierre 1:10-12"
+                },
+                {
+                    "id": "pet8",
+                    "text": "Quelle est la pneumatologie de 1 Pierre ?",
+                    "options": [
+                        "Esprit des prophètes",
+                        "Esprit de sanctification",
+                        "Esprit de gloire",
+                        "Toutes ces réponses"
+                    ],
+                    "correctIndex": 3,
+                    "reference": "1 Pierre 1:2,11; 4:14"
+                },
+                {
+                    "id": "pet9",
+                    "text": "Comment 2 Pierre traite-t-il de la fausse doctrine ?",
+                    "options": [
+                        "Par l'excommunication",
+                        "Par la réfutation théologique",
+                        "Par le rappel de la vérité",
+                        "Réponses 2 et 3"
+                    ],
+                    "correctIndex": 3,
+                    "reference": "2 Pierre 2:1-22"
+                },
+                {
+                    "id": "pet10",
+                    "text": "Quelle est la vision pétrinienne de la croissance spirituelle ?",
+                    "options": [
+                        "Ascèse personnelle",
+                        "Connaissance progressive de Christ",
+                        "Communauté édifiante",
+                        "Les trois aspects"
+                    ],
+                    "correctIndex": 3,
+                    "reference": "2 Pierre 1:3-11; 3:18"
+                }
+            ]
+        },
+        {
+            "id": "general",
+            "name": "Épîtres Générales",
+            "emoji": "📚",
+            "level": "advanced",
+            "questions": [
+                {
+                    "id": "gen1",
+                    "text": "Comment Jacques articule-t-il foi et œuvres ?",
+                    "options": [
+                        "Opposition radicale",
+                        "Foi justifiée par les œuvres",
+                        "Œuvres comme fruit nécessaire",
+                        "Synergisme sacramentel"
+                    ],
+                    "correctIndex": 2,
+                    "reference": "Jacques 2:14-26"
+                },
+                {
+                    "id": "gen2",
+                    "text": "Quelle est l'anthropologie de Jacques sur la langue ?",
+                    "options": [
+                        "Simple organe physique",
+                        "Puissance de vie ou de mort",
+                        "Instrument de louange seulement",
+                        "Neutre moralement"
+                    ],
+                    "correctIndex": 1,
+                    "reference": "Jacques 3:1-12"
+                },
+                {
+                    "id": "gen3",
+                    "text": "Comment Jude utilise-t-il les écrits apocryphes ?",
+                    "options": [
+                        "Comme Écriture canonique",
+                        "Comme illustrations littéraires",
+                        "Par erreur involontaire",
+                        "Il ne les cite pas"
+                    ],
+                    "correctIndex": 1,
+                    "reference": "Jude 9,14-15"
+                },
+                {
+                    "id": "gen4",
+                    "text": "Quelle est l'ecclésiologie de l'épître aux Hébreux ?",
+                    "options": [
+                        "Communauté eschatologique",
+                        "Nouveau sacerdoce",
+                        "Assemblée céleste",
+                        "Toutes ces réponses"
+                    ],
+                    "correctIndex": 3,
+                    "reference": "Hébreux 10:19-25; 12:22-24"
+                },
+                {
+                    "id": "gen5",
+                    "text": "Comment Jacques conçoit-il la sagesse divine ?",
+                    "options": [
+                        "Connaissance intellectuelle",
+                        "Conduite pratique",
+                        "Pureté et paix",
+                        "Réponses 2 et 3"
+                    ],
+                    "correctIndex": 3,
+                    "reference": "Jacques 3:13-18"
+                },
+                {
+                    "id": "gen6",
+                    "text": "Quelle est l'eschatologie de Jude ?",
+                    "options": [
+                        "Jugement des apostats",
+                        "Miséricorde finale",
+                        "Attente active",
+                        "Toutes ces réponses"
+                    ],
+                    "correctIndex": 3,
+                    "reference": "Jude 14-15,20-23"
+                },
+                {
+                    "id": "gen7",
+                    "text": "Comment les épîtres générales traitent-elles de l'épreuve ?",
+                    "options": [
+                        "Comme punition",
+                        "Comme purification",
+                        "Comme occasion de joie",
+                        "Réponses 2 et 3"
+                    ],
+                    "correctIndex": 3,
+                    "reference": "Jacques 1:2-4; 1 Pierre 1:6-7"
+                },
+                {
+                    "id": "gen8",
+                    "text": "Quelle est la christologie des épîtres générales ?",
+                    "options": [
+                        "Jugement eschatologique",
+                        "Grâce salvifique",
+                        "Exemple moral",
+                        "Toutes ces réponses"
+                    ],
+                    "correctIndex": 3,
+                    "reference": "Jacques 2:1; 1 Pierre 1:3; Jude 21"
+                },
+                {
+                    "id": "gen9",
+                    "text": "Comment les épîtres générales conçoivent-elles la Parole ?",
+                    "options": [
+                        "Semence régénératrice",
+                        "Miroir révélateur",
+                        "Fondement doctrinal",
+                        "Toutes ces réponses"
+                    ],
+                    "correctIndex": 3,
+                    "reference": "Jacques 1:18,21-25; 1 Pierre 1:23-25"
+                },
+                {
+                    "id": "gen10",
+                    "text": "Quelle est l'éthique sociale des épîtres générales ?",
+                    "options": [
+                        "Amour concret",
+                        "Justice pour les pauvres",
+                        "Intégrité dans le travail",
+                        "Toutes ces réponses"
+                    ],
+                    "correctIndex": 3,
+                    "reference": "Jacques 1:27; 2:1-9; 5:1-6"
+                }
+            ]
+        }
+    ]
+}

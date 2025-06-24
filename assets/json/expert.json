@@ -1,0 +1,648 @@
+{
+    "level": "expert",
+    "description": "Croyants ayant une maîtrise avancée des Écritures et une profonde compréhension théologique et spirituelle.",
+    "biblicalReference": "1 Corinthiens 2:6",
+    "needs": "Des enseignements approfondis sur les mystères de la foi chrétienne, l'exégèse biblique, et la compréhension des doctrines complexes.",
+    "categories": [
+        {
+            "id": "systematic_theology",
+            "name": "Théologie Systématique",
+            "emoji": "🧠",
+            "level": "expert",
+            "questions": [
+                {
+                    "id": "st1",
+                    "text": "Comment la théologie réformée comprend-elle la relation entre souveraineté divine et responsabilité humaine ?",
+                    "options": [
+                        "Comme un paradoxe irrésolu",
+                        "Par la doctrine de la concourance",
+                        "En niant la liberté humaine",
+                        "Par un déterminisme strict"
+                    ],
+                    "correctIndex": 1,
+                    "reference": "Actes 2:23; Philippiens 2:12-13"
+                },
+                {
+                    "id": "st2",
+                    "text": "Quelle est la différence entre l'union hypostatique et la communication des idiomes en christologie ?",
+                    "options": [
+                        "L'union concerne la nature, la communication les attributs",
+                        "Aucune différence, ce sont des synonymes",
+                        "L'une est trinitaire, l'autre christologique",
+                        "L'une est historique, l'autre eschatologique"
+                    ],
+                    "correctIndex": 0,
+                    "reference": "Colossiens 2:9; Hébreux 1:3"
+                },
+                {
+                    "id": "st3",
+                    "text": "Comment la théologie catholique romaine et protestante divergent-elles sur la justification ?",
+                    "options": [
+                        "Infusion vs imputation de justice",
+                        "Œuvres méritoires vs grâce seule",
+                        "Les deux positions",
+                        "Aucune différence substantielle"
+                    ],
+                    "correctIndex": 2,
+                    "reference": "Romains 3:28; Jacques 2:24"
+                },
+                {
+                    "id": "st4",
+                    "text": "Quelle est la position calviniste sur l'étendue de l'expiation ?",
+                    "options": [
+                        "Limitée aux élus",
+                        "Universelle en offre, efficace pour les élus",
+                        "Générale pour tous sans exception",
+                        "Conditionnelle à la foi prévue"
+                    ],
+                    "correctIndex": 1,
+                    "reference": "Jean 10:15; 1 Jean 2:2"
+                },
+                {
+                    "id": "st5",
+                    "text": "Comment la théologie orthodoxe orientale comprend-elle la divinisation (theosis) ?",
+                    "options": [
+                        "Comme une participation à la nature divine",
+                        "Comme une absorption dans la divinité",
+                        "Comme une métaphore pour le salut",
+                        "Comme une hérésie"
+                    ],
+                    "correctIndex": 0,
+                    "reference": "2 Pierre 1:4"
+                },
+                {
+                    "id": "st6",
+                    "text": "Quelle est la différence entre l'eschatologie réalisée et cohérente ?",
+                    "options": [
+                        "Temporalité du royaume",
+                        "Nature des événements finaux",
+                        "Interprétation des prophéties",
+                        "Les trois réponses"
+                    ],
+                    "correctIndex": 3,
+                    "reference": "Luc 17:21; 1 Corinthiens 15:20-28"
+                },
+                {
+                    "id": "st7",
+                    "text": "Comment la théologie du processus diffère-t-elle du théisme classique ?",
+                    "options": [
+                        "Dans la conception de la toute-puissance divine",
+                        "Dans la relation Dieu-monde",
+                        "Dans la compréhension du mal",
+                        "Les trois réponses"
+                    ],
+                    "correctIndex": 3,
+                    "reference": "Psaume 102:27; Romains 8:28"
+                },
+                {
+                    "id": "st8",
+                    "text": "Quelle est la position du molinisme sur la science moyenne ?",
+                    "options": [
+                        "Connaissance des conditionnels de liberté",
+                        "Prédétermination des choix",
+                        "Ignorance divine du futur",
+                        "Déni de la prescience"
+                    ],
+                    "correctIndex": 0,
+                    "reference": "1 Samuel 23:10-13"
+                },
+                {
+                    "id": "st9",
+                    "text": "Comment la théologie narrative approche-t-elle les Écritures ?",
+                    "options": [
+                        "Comme un système doctrinal",
+                        "Comme une grande histoire de rédemption",
+                        "Comme des mythes à déconstruire",
+                        "Comme des lois morales"
+                    ],
+                    "correctIndex": 1,
+                    "reference": "Luc 24:27"
+                },
+                {
+                    "id": "st10",
+                    "text": "Quelle est la différence entre infralapsarisme et supralapsarisme ?",
+                    "options": [
+                        "Ordre des décrets divins",
+                        "Nature de la prédestination",
+                        "Vision de la chute",
+                        "Les trois réponses"
+                    ],
+                    "correctIndex": 3,
+                    "reference": "Éphésiens 1:4-5"
+                }
+            ]
+        },
+        {
+            "id": "biblical_hermeneutics",
+            "name": "Herméneutique Biblique",
+            "emoji": "🔍",
+            "level": "expert",
+            "questions": [
+                {
+                    "id": "bh1",
+                    "text": "Comment l'herméneutique canonique approche-t-elle l'interprétation biblique ?",
+                    "options": [
+                        "Par analyse historico-critique seule",
+                        "Par lecture des textes dans leur forme canonique finale",
+                        "Par reconstruction des sources",
+                        "Par focalisation sur les auteurs humains"
+                    ],
+                    "correctIndex": 1,
+                    "reference": "2 Timothée 3:16"
+                },
+                {
+                    "id": "bh2",
+                    "text": "Quelle est la critique principale de l'approche déconstructionniste en herméneutique ?",
+                    "options": [
+                        "Son rejet de l'intention de l'auteur",
+                        "Sa négation du sens stable",
+                        "Son relativisme textuel",
+                        "Les trois réponses"
+                    ],
+                    "correctIndex": 3,
+                    "reference": "2 Pierre 1:20-21"
+                },
+                {
+                    "id": "bh3",
+                    "text": "Comment la théorie des actes de langage s'applique-t-elle aux Écritures ?",
+                    "options": [
+                        "En distinguant énoncés constatifs et performatifs",
+                        "En analysant les effets pragmatiques des textes",
+                        "En étudiant comment la Bible agit plus qu'elle ne décrit",
+                        "Les trois réponses"
+                    ],
+                    "correctIndex": 3,
+                    "reference": "Hébreux 4:12"
+                },
+                {
+                    "id": "bh4",
+                    "text": "Quelle est la différence entre sensus plenior et typologie ?",
+                    "options": [
+                        "L'un est auteur-centré, l'autre texte-centré",
+                        "L'un est divinement intenté, l'autre littéraire",
+                        "Aucune différence substantielle",
+                        "L'un est christologique, l'autre ecclésiologique"
+                    ],
+                    "correctIndex": 1,
+                    "reference": "Matthieu 1:22-23; 1 Corinthiens 10:6"
+                },
+                {
+                    "id": "bh5",
+                    "text": "Comment l'intertextualité éclaire-t-elle l'interprétation biblique ?",
+                    "options": [
+                        "En révélant les dialogues entre textes",
+                        "En montrant l'unité des Écritures",
+                        "En identifiant les citations et allusions",
+                        "Les trois réponses"
+                    ],
+                    "correctIndex": 3,
+                    "reference": "Romains 15:4"
+                },
+                {
+                    "id": "bh6",
+                    "text": "Quel est le débat sur la sensus literalis dans l'histoire de l'herméneutique ?",
+                    "options": [
+                        "Entre sens littéral et allégorique",
+                        "Entre sens historique et théologique",
+                        "Entre auteur et lecteur comme source de sens",
+                        "Les trois débats"
+                    ],
+                    "correctIndex": 3,
+                    "reference": "Galates 4:24"
+                },
+                {
+                    "id": "bh7",
+                    "text": "Comment l'herméneutique philosophique (Gadamer) influence-t-elle l'interprétation biblique ?",
+                    "options": [
+                        "Par la fusion des horizons",
+                        "Par la reconnaissance des préjugés",
+                        "Par le dialogue avec le texte",
+                        "Les trois réponses"
+                    ],
+                    "correctIndex": 3,
+                    "reference": "Actes 8:30-31"
+                },
+                {
+                    "id": "bh8",
+                    "text": "Quelle est la critique de l'approche reader-response en herméneutique biblique ?",
+                    "options": [
+                        "Sa négation de l'autorité textuelle",
+                        "Son relativisme interprétatif",
+                        "Sa focalisation sur l'expérience du lecteur",
+                        "Les trois réponses"
+                    ],
+                    "correctIndex": 3,
+                    "reference": "2 Pierre 1:20"
+                },
+                {
+                    "id": "bh9",
+                    "text": "Comment la critique rhétorique analyse-t-elle les textes bibliques ?",
+                    "options": [
+                        "En étudiant les stratégies persuasives",
+                        "En identifiant les structures argumentatives",
+                        "En analysant les figures de style",
+                        "Les trois réponses"
+                    ],
+                    "correctIndex": 3,
+                    "reference": "1 Corinthiens 2:4"
+                },
+                {
+                    "id": "bh10",
+                    "text": "Quel est l'apport de l'analyse narrative à l'herméneutique biblique ?",
+                    "options": [
+                        "Compréhension des personnages et intrigues",
+                        "Attention aux détails littéraires",
+                        "Appréciation de l'art du récit",
+                        "Les trois réponses"
+                    ],
+                    "correctIndex": 3,
+                    "reference": "Luc 1:1-4"
+                }
+            ]
+        },
+        {
+            "id": "historical_theology",
+            "name": "Théologie Historique",
+            "emoji": "⏳",
+            "level": "expert",
+            "questions": [
+                {
+                    "id": "ht1",
+                    "text": "Quelle était la position d'Augustin sur le péché originel ?",
+                    "options": [
+                        "Corruption totale de la nature humaine",
+                        "Péché hérité d'Adam",
+                        "Nécessité de la grâce pour le salut",
+                        "Les trois réponses"
+                    ],
+                    "correctIndex": 3,
+                    "reference": "Romains 5:12"
+                },
+                {
+                    "id": "ht2",
+                    "text": "Comment Thomas d'Aquin a-t-il synthétisé foi et raison ?",
+                    "options": [
+                        "Par la subordination de la raison à la foi",
+                        "Par l'analogie de l'être",
+                        "Par l'utilisation de la philosophie aristotélicienne",
+                        "Les trois réponses"
+                    ],
+                    "correctIndex": 3,
+                    "reference": "Summa Theologica"
+                },
+                {
+                    "id": "ht3",
+                    "text": "Quel était l'enjeu principal de la controverse arienne ?",
+                    "options": [
+                        "La divinité du Christ",
+                        "La nature de la Trinité",
+                        "L'autorité des conciles",
+                        "Les trois réponses"
+                    ],
+                    "correctIndex": 3,
+                    "reference": "Nicée 325"
+                },
+                {
+                    "id": "ht4",
+                    "text": "Quelle était la contribution d'Anselme à la théologie de l'expiation ?",
+                    "options": [
+                        "La théorie de la satisfaction",
+                        "L'accent sur la justice divine",
+                        "Le concept de réparation d'honneur",
+                        "Les trois réponses"
+                    ],
+                    "correctIndex": 3,
+                    "reference": "Cur Deus Homo"
+                },
+                {
+                    "id": "ht5",
+                    "text": "Comment Luther a-t-il reformulé la doctrine de la justification ?",
+                    "options": [
+                        "Par la foi seule",
+                        "Par la grâce seule",
+                        "Par Christ seul",
+                        "Les trois réponses"
+                    ],
+                    "correctIndex": 3,
+                    "reference": "Romains 1:17"
+                },
+                {
+                    "id": "ht6",
+                    "text": "Quelle était la position de Calvin sur la prédestination ?",
+                    "options": [
+                        "Double décret (élection et réprobation)",
+                        "Souveraineté absolue de Dieu",
+                        "Certitude du salut pour les élus",
+                        "Les trois réponses"
+                    ],
+                    "correctIndex": 3,
+                    "reference": "Éphésiens 1:4-5"
+                },
+                {
+                    "id": "ht7",
+                    "text": "Quel était l'apport des Pères cappadociens à la doctrine trinitaire ?",
+                    "options": [
+                        "Distinction entre ousia et hypostase",
+                        "Défense de la divinité du Saint-Esprit",
+                        "Formulation de la circumincession",
+                        "Les trois réponses"
+                    ],
+                    "correctIndex": 3,
+                    "reference": "Credo de Constantinople 381"
+                },
+                {
+                    "id": "ht8",
+                    "text": "Comment la Réforme radicale différait-elle du luthéranisme ?",
+                    "options": [
+                        "Par son rejet du baptême infantile",
+                        "Par sa séparation de l'Église et de l'État",
+                        "Par son pacifisme",
+                        "Les trois réponses"
+                    ],
+                    "correctIndex": 3,
+                    "reference": "Histoire de la Réforme"
+                },
+                {
+                    "id": "ht9",
+                    "text": "Quelle était la contribution de Jonathan Edwards au réveil du Grand Réveil ?",
+                    "options": [
+                        "Prédication de la souveraineté de Dieu",
+                        "Emphase sur l'expérience religieuse authentique",
+                        "Défense de l'orthodoxie calviniste",
+                        "Les trois réponses"
+                    ],
+                    "correctIndex": 3,
+                    "reference": "Pécheurs entre les mains d'un Dieu irrité"
+                },
+                {
+                    "id": "ht10",
+                    "text": "Comment Karl Barth a-t-il renouvelé la théologie au 20e siècle ?",
+                    "options": [
+                        "Par son rejet du libéralisme théologique",
+                        "Par sa christocentrie radicale",
+                        "Par sa redécouverte de l'Écriture",
+                        "Les trois réponses"
+                    ],
+                    "correctIndex": 3,
+                    "reference": "Dogmatique ecclésiastique"
+                }
+            ]
+        },
+        {
+            "id": "biblical_languages",
+            "name": "Langues Bibliques",
+            "emoji": "📜",
+            "level": "expert",
+            "questions": [
+                {
+                    "id": "bl1",
+                    "text": "Quelle est la signification théologique du terme hébreu 'hesed' ?",
+                    "options": [
+                        "Amour fidèle dans l'alliance",
+                        "Miséricorde occasionnelle",
+                        "Justice distributive",
+                        "Bonté générale"
+                    ],
+                    "correctIndex": 0,
+                    "reference": "Psaume 136"
+                },
+                {
+                    "id": "bl2",
+                    "text": "Comment le grec 'logos' dans Jean 1 fait-il écho à la pensée juive et grecque ?",
+                    "options": [
+                        "Comme principe créateur et révélateur",
+                        "Comme simple parole",
+                        "Comme concept philosophique abstrait",
+                        "Comme titre messianique"
+                    ],
+                    "correctIndex": 0,
+                    "reference": "Jean 1:1"
+                },
+                {
+                    "id": "bl3",
+                    "text": "Quelle nuance le terme araméen 'Abba' apporte-t-il à la prière chrétienne ?",
+                    "options": [
+                        "Intimité filiale",
+                        "Formalité religieuse",
+                        "Distance respectueuse",
+                        "Autorité patriarcale"
+                    ],
+                    "correctIndex": 0,
+                    "reference": "Marc 14:36"
+                },
+                {
+                    "id": "bl4",
+                    "text": "Quelle est la différence entre 'dikaiosunē' et 'eleos' en grec du NT ?",
+                    "options": [
+                        "Justice vs miséricorde",
+                        "Loi vs grâce",
+                        "Ancienne vs nouvelle alliance",
+                        "Jugement vs pardon"
+                    ],
+                    "correctIndex": 0,
+                    "reference": "Matthieu 5:6,7"
+                },
+                {
+                    "id": "bl5",
+                    "text": "Comment l'hébreu 'shalom' dépasse-t-il la simple paix ?",
+                    "options": [
+                        "Plénitude relationnelle avec Dieu",
+                        "Prospérité matérielle",
+                        "Absence de conflit",
+                        "Harmonie universelle"
+                    ],
+                    "correctIndex": 0,
+                    "reference": "Nombres 6:24-26"
+                },
+                {
+                    "id": "bl6",
+                    "text": "Quelle nuance apporte le parfait grec dans Jean 19:30 ('tetelestai') ?",
+                    "options": [
+                        "Accomplissement définitif",
+                        "Action en cours",
+                        "Événement futur",
+                        "Répétition possible"
+                    ],
+                    "correctIndex": 0,
+                    "reference": "Jean 19:30"
+                },
+                {
+                    "id": "bl7",
+                    "text": "Comment l'hébreu 'qadosh' (saint) structure-t-il la théologie de l'AT ?",
+                    "options": [
+                        "Séparation pour Dieu",
+                        "Pureté rituelle",
+                        "Perfection morale",
+                        "Les trois réponses"
+                    ],
+                    "correctIndex": 3,
+                    "reference": "Lévitique 19:2"
+                },
+                {
+                    "id": "bl8",
+                    "text": "Quelle est la portée théologique de l'aoriste grec dans 'egerthe' (1 Cor 15:4) ?",
+                    "options": [
+                        "Événement ponctuel historique",
+                        "Action continue",
+                        "État résultant",
+                        "Action répétitive"
+                    ],
+                    "correctIndex": 0,
+                    "reference": "1 Corinthiens 15:4"
+                },
+                {
+                    "id": "bl9",
+                    "text": "Comment l'hébreu 'bara' (créer) en Genèse 1 diffère-t-il des termes voisins ?",
+                    "options": [
+                        "Action divine exclusive",
+                        "Création ex nihilo",
+                        "Don de l'être",
+                        "Les trois réponses"
+                    ],
+                    "correctIndex": 3,
+                    "reference": "Genèse 1:1"
+                },
+                {
+                    "id": "bl10",
+                    "text": "Quelle nuance le moyen-passif grec apporte-t-il à 'agapēthentes' (1 Jn 4:19) ?",
+                    "options": [
+                        "Réception de l'amour divin",
+                        "Action réflexive",
+                        "Passivité totale",
+                        "Cause divine de l'amour"
+                    ],
+                    "correctIndex": 0,
+                    "reference": "1 Jean 4:19"
+                }
+            ]
+        },
+        {
+            "id": "philosophical_theology",
+            "name": "Théologie Philosophique",
+            "emoji": "🤔",
+            "level": "expert",
+            "questions": [
+                {
+                    "id": "pt1",
+                    "text": "Comment le problème du mal challenge-t-il le théisme classique ?",
+                    "options": [
+                        "Question de la bonté divine",
+                        "Problème de la toute-puissance",
+                        "Défi à l'omniscience",
+                        "Les trois réponses"
+                    ],
+                    "correctIndex": 3,
+                    "reference": "Romains 9:20-21"
+                },
+                {
+                    "id": "pt2",
+                    "text": "Quelle est la force de l'argument ontologique pour l'existence de Dieu ?",
+                    "options": [
+                        "Sa base a priori",
+                        "Son indépendance de l'expérience",
+                        "Sa rigueur logique",
+                        "Les trois réponses"
+                    ],
+                    "correctIndex": 3,
+                    "reference": "Psaume 14:1"
+                },
+                {
+                    "id": "pt3",
+                    "text": "Comment la théorie de la connaissance réformée (Plantinga) répond-elle au défi sceptique ?",
+                    "options": [
+                        "Par les croyances proprement basiques",
+                        "Par le fondationalisme modéré",
+                        "Par l'accord foi-raison",
+                        "Les trois réponses"
+                    ],
+                    "correctIndex": 3,
+                    "reference": "Éphésiens 2:8"
+                },
+                {
+                    "id": "pt4",
+                    "text": "Quel est l'enjeu du débat sur les attributs divins entre simplicité et complexité ?",
+                    "options": [
+                        "Nature de l'être divin",
+                        "Unité des attributs",
+                        "Compréhension humaine de Dieu",
+                        "Les trois réponses"
+                    ],
+                    "correctIndex": 3,
+                    "reference": "Exode 3:14"
+                },
+                {
+                    "id": "pt5",
+                    "text": "Comment la théologie analytique approche-t-elle les doctrines classiques ?",
+                    "options": [
+                        "Par clarification conceptuelle",
+                        "Par analyse logique",
+                        "Par engagement philosophique",
+                        "Les trois réponses"
+                    ],
+                    "correctIndex": 3,
+                    "reference": "1 Corinthiens 14:33"
+                },
+                {
+                    "id": "pt6",
+                    "text": "Quelle est la contribution de la phénoménologie à la théologie ?",
+                    "options": [
+                        "Analyse de l'expérience religieuse",
+                        "Approche de la révélation",
+                        "Compréhension de la foi",
+                        "Les trois réponses"
+                    ],
+                    "correctIndex": 3,
+                    "reference": "Romains 1:20"
+                },
+                {
+                    "id": "pt7",
+                    "text": "Comment le néo-thomisme répond-il aux défis modernes ?",
+                    "options": [
+                        "Par reprise de la métaphysique",
+                        "Par dialogue avec la science",
+                        "Par renouveau de l'analogie",
+                        "Les trois réponses"
+                    ],
+                    "correctIndex": 3,
+                    "reference": "Romains 1:19-20"
+                },
+                {
+                    "id": "pt8",
+                    "text": "Quel est le défi principal du physicalisme pour l'anthropologie chrétienne ?",
+                    "options": [
+                        "Nature de l'âme",
+                        "Résurrection corporelle",
+                        "Liberté humaine",
+                        "Les trois réponses"
+                    ],
+                    "correctIndex": 3,
+                    "reference": "1 Corinthiens 15:35-44"
+                },
+                {
+                    "id": "pt9",
+                    "text": "Comment la théorie des mondes possibles éclaire-t-elle la doctrine du péché originel ?",
+                    "options": [
+                        "Par contrefactuels de liberté",
+                        "Par compréhension de la chute",
+                        "Par théodicée",
+                        "Les trois réponses"
+                    ],
+                    "correctIndex": 3,
+                    "reference": "Romains 5:12"
+                },
+                {
+                    "id": "pt10",
+                    "text": "Quelle est la pertinence de la philosophie du langage pour la théologie trinitaire ?",
+                    "options": [
+                        "Clarification des termes",
+                        "Éviter les contradictions",
+                        "Précision conceptuelle",
+                        "Les trois réponses"
+                    ],
+                    "correctIndex": 3,
+                    "reference": "Matthieu 28:19"
+                }
+            ]
+        }
+    ]
+}
