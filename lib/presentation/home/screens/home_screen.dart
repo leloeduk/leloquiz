@@ -12,22 +12,27 @@ class HomeScreen extends StatelessWidget {
       {
         'name': 'Débutant',
         'level': 'beginner',
-        'color': Colors.blue,
+        'color': Colors.blue.shade800,
         'emoji': '🌱',
       },
       {
         'name': 'Intermédiaire',
         'level': 'intermediate',
-        'color': Colors.green,
+        'color': Colors.green.shade800,
         'emoji': '🌿',
       },
       {
         'name': 'Avancé',
         'level': 'advanced',
-        'color': Colors.orange,
+        'color': Colors.orange.shade800,
         'emoji': '🌲',
       },
-      {'name': 'Expert', 'level': 'expert', 'color': Colors.red, 'emoji': '🏆'},
+      {
+        'name': 'Expert',
+        'level': 'expert',
+        'color': Colors.red.shade800,
+        'emoji': '🏆',
+      },
     ];
 
     return Scaffold(
@@ -45,37 +50,44 @@ class HomeScreen extends StatelessWidget {
         ],
       ),
       drawer: const DrawerScreen(),
-      body: Padding(
-        padding: const EdgeInsets.all(16.0),
-        child: Column(
-          crossAxisAlignment: CrossAxisAlignment.start,
-          children: [
-            const Text(
-              'Choisissez votre niveau:',
-              style: TextStyle(fontSize: 20, fontWeight: FontWeight.bold),
-            ),
-            const SizedBox(height: 16),
-            Expanded(
-              child: GridView.builder(
-                gridDelegate: const SliverGridDelegateWithFixedCrossAxisCount(
-                  crossAxisCount: 2,
-                  crossAxisSpacing: 16,
-                  mainAxisSpacing: 16,
-                  childAspectRatio: 1.1,
+
+      body: SafeArea(
+        child: Center(
+          child: Padding(
+            padding: const EdgeInsets.all(16.0),
+            child: Column(
+              // crossAxisAlignment: CrossAxisAlignment.start,
+              mainAxisAlignment: MainAxisAlignment.center,
+              children: [
+                const Text(
+                  'Choisissez votre niveau:',
+                  style: TextStyle(color: Colors.grey, fontSize: 24),
                 ),
-                itemCount: levels.length,
-                itemBuilder: (context, index) {
-                  final level = levels[index];
-                  return _LevelCard(
-                    name: level['name'],
-                    level: level['level'],
-                    color: level['color'],
-                    emoji: level['emoji'],
-                  );
-                },
-              ),
+                const SizedBox(height: 16),
+                Expanded(
+                  child: GridView.builder(
+                    gridDelegate:
+                        const SliverGridDelegateWithFixedCrossAxisCount(
+                          crossAxisCount: 2,
+                          crossAxisSpacing: 16,
+                          mainAxisSpacing: 16,
+                          childAspectRatio: 1.1,
+                        ),
+                    itemCount: levels.length,
+                    itemBuilder: (context, index) {
+                      final level = levels[index];
+                      return _LevelCard(
+                        name: level['name'],
+                        level: level['level'],
+                        color: level['color'],
+                        emoji: level['emoji'],
+                      );
+                    },
+                  ),
+                ),
+              ],
             ),
-          ],
+          ),
         ),
       ),
     );
